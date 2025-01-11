@@ -3,7 +3,7 @@
 const page = () => {
   return (
     <div>
-      <p>richie lloyd brennan home page</p>
+      <p>richie lloyd brennan home page and patties two</p>
     </div>
   )
 }
